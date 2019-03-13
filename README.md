@@ -2,16 +2,16 @@
 Advanced Powershell based GUI for Intune management
 
 ### Devices view
-![Yodamiitti_IntuneManagementGUI_CommunityEdition.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Devices.png)
+![Yodamiitti_IntuneManagementGUI_CommunityEdition.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Devices_.png)
 
 ### Copy device/app information as JSON
 ![Yodamiitti_IntuneManagementGUI_CommunityEdition.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_rightclick_copy_json.png)
 
 ### Apps view
-![Yodamiitti_IntuneManagementGUI_CommunityEdition.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Apps.png)
+![Yodamiitti_IntuneManagementGUI_CommunityEdition.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Apps_.png)
 
 ### Powershell scripts view
-![Yodamiitti_IntuneManagementGUI_CommunityEdition.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Powershell.png)
+![Yodamiitti_IntuneManagementGUI_CommunityEdition.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Powershell_.png)
 
 ## Prerequisities
 Install Intune Powershell
