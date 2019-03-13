@@ -7,6 +7,9 @@ Advanced Powershell based GUI for Intune management
 ### Copy device/app information as JSON
 ![Yodamiitti_IntuneManagementGUI_CommunityEdition_rightclick_copy_json.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_rightclick_copy_json.png)
 
+### Search Devices in DeviceCategory (categories are shown in dropdown box)
+![Yodamiitti_IntuneManagementGUI_CommunityEdition_Devices_search_by_devicecategory.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Devices_search_by_devicecategory.png)
+
 ### Apps view
 ![Yodamiitti_IntuneManagementGUI_CommunityEdition_Apps_.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Apps_.png)
 
