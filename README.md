@@ -14,7 +14,7 @@ Advanced Powershell based GUI for Intune management
 Install Intune Powershell
 SDK https://github.com/Microsoft/Intune-PowerShell-SDK
 
-## What/Why
+## What & Why
 This tool is built to help Intune admins to do some daily tasks easier and quicker than in Intune Web UI
 
 This started as Intune Powershell tips & tricks project and then escalated a little bit. Code is in many places still ad-hoc style but it works ;)
