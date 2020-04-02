@@ -1,6 +1,8 @@
 # Yodamiitti Intune Management GUI Community Edition v1.0
 Advanced Powershell based GUI for Intune management
 
+* Update: New version 2.0 is working in progress. It will have threading support so that enables new possibilities like new application windows for device details etc...
+
 ### Devices view
 ![Yodamiitti_IntuneManagementGUI_CommunityEdition_Devices.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Devices.png)
 
@@ -35,7 +37,7 @@ This started as Intune Powershell tips & tricks project and then escalated a lit
 * Show Apps which have assignments to selected AAD Group
 * Show Powershell scripts content
 ## Backlog
-* Change script to multi threading model (yes I know, never do UIs on single thread)
+* Change script to multi threading model (work in progress)
 * Confirmation popup for actions
 * Users and Groups TAB
 * Profiles TAB
