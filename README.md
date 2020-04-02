@@ -1,7 +1,7 @@
 # Yodamiitti Intune Management GUI Community Edition v1.0
 Advanced Powershell based GUI for Intune management
 
-* Update: New version 2.0 is work in progress. It will have threading support so that enables new possibilities like new application windows for device details etc...
+* Update: New version 2.0 is work in progress. It will have threading support so that enables new possibilities like separate windows for device details etc...
 
 ### Devices view
 ![Yodamiitti_IntuneManagementGUI_CommunityEdition_Devices.png](https://www.petripaavola.fi/Yodamiitti_IntuneManagementGUI_CommunityEdition_Devices.png)
